@@ -85,3 +85,11 @@
   width: 40px;
   margin-right: 10px;
 }
+
+.weather{
+  display: none;
+}
+
+.error{
+  display: none;
+}
